@@ -1,7 +1,7 @@
 # flutter_app
 
 flutter练手项目～涵盖常见布局方式和技术点。
-
+网络请求Dio，屏幕适配ScreenUtil
 ## Getting Started
 
 This project is a starting point for a Flutter application.
