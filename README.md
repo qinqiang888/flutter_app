@@ -1,6 +1,6 @@
 # flutter_app
 
-flutter练手项目～涵盖大部分布局方式。
+flutter练手项目～涵盖常见布局方式和技术点。
 
 ## Getting Started
 
