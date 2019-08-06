@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter project.
+flutter练手项目～涵盖大部分布局方式。
 
 ## Getting Started
 
